@@ -1,4 +1,4 @@
-Ejercicio en Javacript que simula un buscador de propiedades teniendo distintos filtros para ir variando los resultados que muestra.
+Ejercicio hecho en Javacript que simula un buscador de propiedades teniendo distintos filtros para ir variando los resultados que muestra.
 
 link proyecto githubpages : https://diegodelias.github.io/EjercicioBuscadorPropiedadesJavacript/Ui.html
 
