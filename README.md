@@ -2,6 +2,8 @@ Ejercicio en Javacript que simula un buscador de propiedades teniendo distintos 
 
 link proyecto githubpages : https://diegodelias.github.io/EjercicioBuscadorPropiedadesJavacript/Ui.html
 
+video: https://www.youtube.com/watch?v=uhazOcUr0w0&feature=youtu.be
+
 ![](img/uno.jpg)
 
 ![](img/dos.jpg)
